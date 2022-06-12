@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    background: linear-gradient(90deg,#000, #000e 35%, #000A 50%, #0000), url("../img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 128px 50px 128px;
+}
+header{
+    background-color: lightgreen;
+    height: 36px;
+}
+main{
+    background-color: tomato;
+    flex-grow: 1;
+}
+footer{
+    background-color: violet;
+    height: 21px;
+}
