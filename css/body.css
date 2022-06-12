@@ -7,10 +7,7 @@ body{
     flex-direction: column;
     padding: 80px 128px 50px 128px;
 }
-header{
-    background-color: lightgreen;
-    height: 36px;
-}
+
 main{
     background-color: tomato;
     flex-grow: 1;
