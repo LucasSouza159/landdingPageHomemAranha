@@ -7,11 +7,6 @@ body{
     flex-direction: column;
     padding: 80px 128px 50px 128px;
 }
-
-main{
-    background-color: tomato;
-    flex-grow: 1;
-}
 footer{
     background-color: violet;
     height: 21px;
