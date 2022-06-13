@@ -7,6 +7,7 @@ main{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  color: #fff;
 }
 .content-container h1{
     font-size: 7rem;
@@ -23,6 +24,23 @@ main{
     color: #E62721;
     transform: translateY(-25px);
     font-style: italic;
+}
+.movie-text{
+    font-size: 1.1rem;
+    width: 550px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+.movie-button{
+    height: 80px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 200;
+    border-radius: 10px;
+    background-color: #E62721;
+    font-size: 1.5rem;
 }
 .social-container{
     width: 48px;
