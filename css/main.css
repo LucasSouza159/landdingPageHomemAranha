@@ -88,6 +88,10 @@ main{
     .content-container{
         justify-content: flex-end;
         margin-bottom: 50px;
+        position: absolute;
+        left: 50%;
+        top: 60%;
+        transform: translate(-50%, -50%);
     }
     .content-container h1{
         font-size: 4rem;
